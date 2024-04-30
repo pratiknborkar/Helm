@@ -5,7 +5,7 @@
 replicaCount: 3
 
 image:
-  repository: ghcr.io/catenax-ng/k8s-helm-example
+  repository: pratiknborkar/static-web:v1
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1.23.2"
